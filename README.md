@@ -1,4 +1,3 @@
-# description
 # 💫 About Me:
 Computer Science Engineering graduate with hands-on experience in Full-Stack Development, Artificial Intelligence, Machine Learning, and Generative AI. Skilled in building scalable web applications, developing AI-powered solutions, and solving real-world problems through innovative technologies. Passionate about continuous learning and eager to contribute to impactful software and AI projects while growing as a technology professional.
 
